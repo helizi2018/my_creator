@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "splode_2",
+    "texture": "ff55d92c-b41d-4efd-a14f-2a3ce0f59e27",
+    "atlas": "",
+    "rect": [
+      7,
+      6,
+      37,
+      37
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

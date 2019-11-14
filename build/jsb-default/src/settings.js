@@ -1,0 +1,1 @@
+window._CCSettings={platform:"win32",groupList:["default","player","enemy"],collisionMatrix:[[true],[false,false,true],[false,true,true]],rawAssets:{assets:{}},assetTypes:[],launchScene:"db://assets/game.fire",scenes:[{url:"db://assets/game.fire",uuid:"f8YI1uvSZPAIneMKMJPVsw"}],packedAssets:{},md5AssetsMap:{},orientation:"",subpackages:{},uuids:[]};
